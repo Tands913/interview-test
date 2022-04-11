@@ -29,3 +29,19 @@ otherwise, need to edit '.env' file to change the database connection setting.
 
 The local testing server will run on port 8000 with http.
 Access in browser "http://127.0.0.1:8000"
+
+## Contact List
+
+![Contact List!](/screenshot/contact_list.JPG "Contact List")
+
+## Contact Create page
+
+![Contact List!](/screenshot/contact_create.JPG "Contact create")
+
+## Contact Update Page
+
+![Contact List!](/screenshot/contact_update.JPG "Contact update")
+
+## Contact Delete post request
+
+![Contact List!](/screenshot/contact_delete.JPG "Contact delete")
