@@ -9,10 +9,14 @@ This is simple test app, the prerequisite of this app requires:
 
 - set Composer, Npm, PHP in global environment variable
 
-## Important
-MySQL should listen on port 3306 on default.
-make sure to create an account in MySQL database, the user name should be 'root', password should be 'mysql'. and create an database named 'test'.
-otherwise, need to change '.env' file to change the database connection.
+
+## Important Before Build steps
+1. MySQL should listen on port 3306 on default.
+
+2. make sure to create an account in MySQL database, the user name should be 'root', password should be 'mysql'. Grant all privileges 
+
+3. create an database named 'test'.
+otherwise, need to edit '.env' file to change the database connection setting.
 
 ## Building steps
 
